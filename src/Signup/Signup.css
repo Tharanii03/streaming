@@ -1,0 +1,16 @@
+.sign{
+    
+    margin-right: 500px;
+    width: 500px;
+    margin-top: 10px;
+    background-color: rgba(255, 255, 255, 0.8);
+}
+.hj{
+    background-image: url("../SignUp/Image4/bg\ sign.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

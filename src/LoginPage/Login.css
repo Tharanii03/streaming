@@ -1,0 +1,18 @@
+.mn {
+    background-image: url("../Login/Image2/Latest\ Movies.jpeg");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .login-form-container {
+    max-width: 400px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    
+    background-color: rgba(255, 255, 255, 0.9); /* Opaque white background */
+  }
